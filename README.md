@@ -114,8 +114,8 @@ driver-fatigue-detection/
 ├── alarm.wav              # Alarm sound for the Sleeping state
 ├── requirements.txt       # Python dependencies
 ├── README.md              # Project documentation
-└── docs/
-    └── Driver_Fatigue_Detection_Technical_Documentation.pdf
+├── .gitignore             
+
 ```
 
 ---
@@ -132,18 +132,11 @@ driver-fatigue-detection/
 
 **1. Clone the repository**
 ```bash
-git clone https://github.com/<your-username>/driver-fatigue-detection.git
+git clone https://github.com/SovySatyajit/driver-fatigue-detection.git
 cd driver-fatigue-detection
 ```
 
-**2. (Optional) Create a virtual environment**
-```bash
-python -m venv venv
-venv\Scripts\activate          # Windows
-source venv/bin/activate       # macOS / Linux
-```
-
-**3. Install dependencies**
+**2. Install dependencies**
 ```bash
 pip install -r requirements.txt
 ```
@@ -158,7 +151,7 @@ python fatigue_detection.py
 
 - Sit in front of the webcam with your face clearly visible and well lit.
 - Watch the status on screen: 🟢 Active → 🟡 Drowsy → 🔴 Sleeping.
-- Press **`ESC`** to quit.
+- Press **`ESC`** or **Ctrl+C** to quit.
 
 To test that your camera works, run:
 
