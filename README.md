@@ -1,6 +1,16 @@
-# 😴 Driver Fatigue Detection
+<h1 align="center">😴 Driver Fatigue Detection</h1>
 
-**Real-time AI-based driver monitoring using facial landmarks and eye movement analysis**
+<h3 align="center">Real-time AI-based driver monitoring using facial landmarks and eye movement analysis</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/PYTHON-3.9%2B-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/OPENCV-COMPUTER%20VISION-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV">
+  <img src="https://img.shields.io/badge/MEDIAPIPE-FACE%20MESH-00BCD4?style=for-the-badge&logo=google&logoColor=white" alt="MediaPipe">
+  <br>
+  <img src="https://img.shields.io/badge/NUMPY-NUMERICAL%20COMPUTING-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy">
+  <img src="https://img.shields.io/badge/PYGAME-AUDIO%20ALERTS-00AEEF?style=for-the-badge" alt="Pygame">
+  <img src="https://img.shields.io/badge/LICENSE-MIT-green?style=for-the-badge" alt="License">
+</p>
 
 ---
 
